@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjovanov
 - 👀 I’m interested in ... Web and Game Development
-- 🌱 I’m currently learning ... Game Development- Unreal Engine
+- 🌱 I’m currently learning ... NodeJS
 - 💞️ I’m looking to collaborate on ... -
 - 📫 How to reach me ... angel@jovanov.me
 
