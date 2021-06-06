@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Angel
-- 👀 I’m interested in Web and Game Development
+- 👀 I’m interested in Web Development
 - 📫 You can reach me at angel@jovanov.me
 
 <!---
