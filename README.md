@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anjovanov
+- 👋 Hi, I’m Angel
 - 👀 I’m interested in Web and Game Development
 - 📫 You can reach me at angel@jovanov.me
 
